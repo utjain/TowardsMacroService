@@ -1,1 +1,2 @@
-This is my first Git Checkin
+This is my first Git Checking
+Now learning how to subsequently add 
